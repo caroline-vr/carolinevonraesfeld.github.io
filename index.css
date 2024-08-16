@@ -1,7 +1,6 @@
 body {
-	width:800px;
-	height:800px;
 	background: url('ngcrose.jpg') no-repeat !important;
+	background-size: 800px 800px;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
 	
