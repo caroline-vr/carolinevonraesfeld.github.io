@@ -1,0 +1,120 @@
+body {
+	background-color: #053225;
+	color: #CFD7C7;
+	font-family: "Avenir", sans-serif;
+	text-align: left;
+}
+
+.Home_container__bCOhY {
+    padding: 0 2rem
+}
+
+.Home_main__nLjiQ {
+    min-height: 100vh;
+    padding: 4rem 0;
+    flex: 1 1;
+    flex-direction: column;
+}
+
+.Home_main__about {
+    min-height: 100vh;
+    padding: 200px;
+    flex: 1 1;
+    flex-direction: column;
+}
+
+.Home_footer____T7K,.Home_main__nLjiQ {
+    display: flex;
+    justify-content: center;
+    align-items: center
+}
+
+.Home_footer____T7K {
+    flex: 1 1;
+    padding: 2rem 0;
+    border-top: 1px solid #eaeaea;
+}
+
+.Home_footer____T7K a {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-grow: 1;
+}
+
+.Home_title__T09hD a {
+    color: #0070f3;
+    text-decoration: none;
+}
+
+.Home_title__T09hD a:active,.Home_title__T09hD a:focus,.Home_title__T09hD a:hover {
+    text-decoration: underline
+}
+
+.Home_title__T09hD {
+    margin: 0;
+    line-height: 1.2;
+    font-size: 5rem;
+    font-family: "Avenir", sans-serif;
+}
+
+.Home_description__41Owk,.Home_title__T09hD {
+    text-align: center;
+}
+
+.Home_description__41Owk {
+    margin: 3rem 0;
+    line-height: 1.5;
+    font-size: 1.5rem;
+    font-family: "Avenir", sans-serif;
+}
+
+.Home_code__suPER {
+    background: #fafafa;
+    border-radius: 5px;
+    padding: .75rem;
+    font-size: 1.1rem;
+    font-family: IBMPlexSans,monospace
+}
+
+.Home_grid__GxQ85 {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    max-width: 500px
+}
+
+.Home_card___LpL1 {
+    margin: .8rem;
+    padding: 1.1rem;
+    text-align: left;
+    background-color: #inherit;
+    text-decoration: none;
+    border: 1px solid #inherit;
+    border-radius: 10px;
+    transition: color .15s ease,border-color .15s ease;
+    max-width: 100px
+}
+
+.Home_card___LpL1:active,.Home_card___LpL1:focus,.Home_card___LpL1:hover {
+    border-color: #93bfcf
+}
+
+.Home_card___LpL1 h2 {
+    margin: 0 0 1rem;
+    font-size: 1.5rem
+}
+
+.Home_card___LpL1 p {
+    margin: 0;
+    font-size: 1.25rem;
+    line-height: 1.5
+}
+
+.Home_logo__27_tb {
+    height: 1em;
+    margin-left: .5rem
+}
+
+}
