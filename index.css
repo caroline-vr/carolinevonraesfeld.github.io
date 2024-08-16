@@ -21,7 +21,7 @@ nav {
 
 
 body {
-	background-image: url("ngc rose.jpg");
+	background: url("ngcrose.jpg") no-repeat;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
 }
