@@ -6,9 +6,10 @@ body {
 }
 
 #mainheader {
-	width:800px; 
+	width:100px; 
 	margin:0 auto;
-	color: #ccccff;
+	background-color: #ccccff;
+	color:blue;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
 }
