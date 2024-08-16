@@ -6,14 +6,8 @@ body {
 }
 
 #mainheader {
-	color: blue;
 	width:800px; 
 	margin:0 auto;
-}
-
-
-
-h1 {
 	color: #ccccff;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
