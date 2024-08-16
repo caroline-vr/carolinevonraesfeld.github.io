@@ -1,11 +1,7 @@
-body {
-	background-color: #8080ff;
-	font-family: "Times New Roman", sans-serif;
-	text-align: justify;
-}
+
 
 #mainheader {
-	color:blue !important;
+	color:blue ;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
 	width: 200px;
@@ -15,3 +11,10 @@ body {
 	margin: 10px;
 }
 
+
+
+body {
+	background-color: #8080ff;
+	font-family: "Times New Roman", sans-serif;
+	text-align: justify;
+}
