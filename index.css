@@ -5,7 +5,7 @@ body {
 	text-align: justify;
 }
 
-.main-header {
+#main-header {
 	color: blue;
 	width:800px; 
 	margin:0 auto;
