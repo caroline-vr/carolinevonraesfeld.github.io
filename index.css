@@ -1,5 +1,5 @@
 body {
-	background: url('ngcrose.jpg') no-repeat !important;
+	background: url('ngcrose.jpg') no-repeat;
 	background-size: 800px 800px;
 	font-family: "Times New Roman", sans-serif;
 	text-align: justify;
@@ -22,7 +22,8 @@ nav {
 }
 
 #navbar {
-	 padding:100px;
+	padding:100px;
+	text-color:white;
 }
 
 
