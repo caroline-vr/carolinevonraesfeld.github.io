@@ -6,27 +6,16 @@ body {
 	text-align: justify;
 }
 
-
-#mainheader {
-	color:rgba(3, 3, 3, 0) ;
-	width: 400px;
-	height: 150px;
+ol {
+	list-style-type: upper-roman;
 }
 
-/* nav {
-	display:block;
-} */
-
-#navbar {
-	color:white;
-	display: block;
-	background-color: #2a05af;
-	width: 400px;
-	height: 50px;
+ol li {
+	color: blue;
+	background-color: aliceblue;
 }
 
-#navbar a:hover {
-	color:rgb(204, 35, 35);
-	background-color: #ffffff;
+ol li:hover {
+	color: rgb(2, 2, 14);
+	background-color: aqua;
 }
-
