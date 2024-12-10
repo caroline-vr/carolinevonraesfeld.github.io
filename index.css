@@ -13,12 +13,16 @@ body {
 
 ol {
 	list-style-type: upper-roman;
+	width: 200px;
+	height: 50px;
 
 }
 
 ol li {
 	color: blue;
 	background-color: aliceblue;
+	width: 200px;
+	height: 50px;
 }
 
 ol li:hover {
