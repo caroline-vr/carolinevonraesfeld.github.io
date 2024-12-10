@@ -13,18 +13,20 @@ body {
 	height: 150px;
 }
 
-nav {
+/* nav {
 	display:block;
-}
+} */
 
 #navbar {
 	color:white;
 	display: block;
 	background-color: #2a05af;
+	width: 400px;
+	height: 50px;
 }
 
-/* a {
-	display: block;
-	background-color: #2a05af;
-} */
+#navbar a:hover {
+	color:rgb(204, 35, 35);
+	background-color: #ffffff;
+}
 
