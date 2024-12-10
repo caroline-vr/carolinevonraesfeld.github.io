@@ -6,8 +6,14 @@ body {
 	text-align: justify;
 }
 
+.box {
+	width: 200px;
+	height: 50px;
+}
+
 ol {
 	list-style-type: upper-roman;
+
 }
 
 ol li {
