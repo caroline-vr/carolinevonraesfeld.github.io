@@ -18,9 +18,13 @@ nav {
 }
 
 #navbar {
-	padding:100px;
 	color:white;
+	display: block;
+	background-color: #2a05af;
 }
 
-
+/* a {
+	display: block;
+	background-color: #2a05af;
+} */
 
