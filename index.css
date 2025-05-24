@@ -8,6 +8,7 @@ body {
 
 div#navigation {
 	width: 150px; 
+	height: 300px;
 }
 
 ol {
@@ -17,10 +18,37 @@ ol {
 
 ol li {
 	color: blue;
-	background-color: aliceblue;
+	background-color: #000eff;
 }
 
 ol li:hover {
 	color: rgb(2, 2, 14);
-	background-color: aqua;
+	background-color: #006fff;
+}
+
+
+/* Ensure proper sizing */
+* {
+  box-sizing: border-box;
+}
+
+/* Column container */
+.row {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+/* Create two unequal columns that sits next to each other */
+/* Sidebar/left column */
+.side {
+  flex: 30%; /* Set the width of the sidebar */
+  background-color: #f1f1f1; /* Grey background color */
+  padding: 20px; /* Some padding */
+}
+
+/* Main column */
+.main {
+  flex: 70%; /* Set the width of the main content */
+  background-color: white; /* White background color */
+  padding: 20px; /* Some padding */
 }
