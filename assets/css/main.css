@@ -37,6 +37,10 @@ ol, ul {
 	list-style: none;
 }
 
+li { /* styles all li elements*/
+    list-style-type: none;
+}
+
 blockquote, q {
 	quotes: none;
 }
